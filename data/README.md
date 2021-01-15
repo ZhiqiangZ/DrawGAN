@@ -1,1 +1,1 @@
-These file contains two datasets: CUB and MS COCO.
+This file contains two datasets: CUB and MS COCO.
